@@ -8,7 +8,7 @@ Cada récord debe incluir un vídeo sin cortes desde el principio del nivel hast
   
 Jugadores también deben considerar que cada envío debe incluir un vídeo o una grabación no editada con **clics constantemente audibles** durante el intento correspondiente. Más información y sugerencias para grabar clics se puede encontrar [aquí].
 
-Se debe tener en cuenta que jugadores que salen del nivel en el medio de un intento de forma accidental *aún son elegibles para envíar un récord como si hubiesen muerto en el porcentaje al cual llegaron*. Esta pauta también se aplica a jugadores que pausan el juego mediante la activación del hack de "Hide Pause Menu", ya que este hack no se permite en los récords de la lista. Récords hechos desde el 0% en solamente 1 intento en Modo Práctica también son elegibles.
+Se debe tener en cuenta que jugadores que salen del nivel en medio de un intento de forma accidental *aún son elegibles para envíar un récord como si hubiesen muerto en el porcentaje al cual llegaron*. Esta pauta también se aplica a jugadores que pausan el juego mediante la activación del hack de "Hide Pause Menu", ya que este hack no se permite en los récords de la lista. Récords hechos desde el 0% en solamente 1 intento en Modo Práctica también son elegibles.
 
 
 </div>
