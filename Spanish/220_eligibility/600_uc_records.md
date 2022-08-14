@@ -1,17 +1,17 @@
 <div class='panel fade js-scroll-anim' data-anim='fade'>
 
-# Under Consideration Records{id=uc-records}
+# Récords Bajo Consideración{id=uc-records}
 
-Although this classification is used for records that are potentially illegitimate, the list team also marks records as Under Consideration (UC) if a certain aspect of a legitimate run may or may not quality under these eligibility guidelines. 
+Aunque esta clasificación se usa para récords que son posiblemente ilegítimos, el equipo de la lista también marca un récord como Bajo Consideración (UC) si un cierto aspecto de un récord legítimo a lo mejor no se califica bajo estas pautas de elegibilidad.
 
-For instance, the record may feature a custom LDM, bug fix, or skip that requires additional verification before we can add it to the list. 
+Por ejemplo, el récord puede contener un LDM personalizado, una corrección de un bug, o un salto que requiere verificación adicional antes de que podamos añadirlo a la lista.
 
-## High Suspicion 
+## Alta Sospecha
 
-A UC record may feature a video of considerably low quality, to the point at which a hacked completion is indistinguishable from a normal run of the level. For many reasons in addition to low quality, a record may be rejected due to high suspicion of a [hacked completion](/guidelines/eligibility/#hacks), but the player **will not be banned** unless conclusive evidence for illegitimacy is found.
+Un récord UC puede contener un vídeo de considerablemente baja calidad, hasta el punto que un récord hackeado es indistinguible a un récord legítimo del nivel. Por muchas razones aparte de baja calidad, un récord puede ser rechazado a causa de alta sospecha de un [récord hackeado](/guidelines/eligibility/#hacks), pero el jugador **no será baneado** a no ser que se pueda concluir que el récord fue ilegítimo.
 
-As such, players are encouraged, but not required, to include strong indicators of a legitimate completion, such as moderate to high video quality, streams, and/or progress videos. *Valid raw footage is an especially important indicator of legitimacy*; it is **required for every submission** and often a significant point of reference if we become suspicious of a hacked record. Please refer to the [Raw Footage](/guidelines/rawfootage/#raw-footage) section of the guidelines for more details. 
+Como tal, jugadores son alentados, pero no requeridos, a incluir buenas indicaciones de un récord legítimo, como una calidad de grabación moderada o alta, directos, y/o vídeos de progreso. **Grabaciones no editadas válidas son especialmente una indicación importante de legitimidad*, es **requerido para todos los envíos** y muchas veces un punto de referencia significativo si acabamos sospechando de un récord ilegítimo. Por favor refiérase a la sección de [Grabaciones no Editadas](/guidelines/rawfootage/#raw-footage) para más detalles.
 
-***A player that refuses to provide evidence to support their legitimacy when requested will be assumed to have hacked one or more completions and will be consequently banned.*** If a team member requests evidence that you do not possess, the corresponding record will likely be rejected, but a player ban will not be considered unless this case repeatedly occurs.
+***Si un jugador se niega a incluir evidencia para poder apoyar su legitimidad cuando se lo piden, se supondrá que tiene uno o más récords ilegítimos y como consecuencia, será baneado.*** Si un miembro del equipo pide evidencia que no tienes, el récord correspondiente seguramente será rechazado, pero el jugador no será baneado a no ser que esto ocurra de forma repetida.
 
 </div>

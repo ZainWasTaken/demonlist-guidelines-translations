@@ -1,21 +1,21 @@
 <div class='panel fade js-scroll-anim' data-anim='fade'>
 
-# Gameplay Changes{id=gameplay}
+# Cambios en el Gameplay{id=gameplay}
 
-In general, records are not eligible for the list if the player changed the gameplay in any way from its original state. However, [fixing bugs](/guidelines/eligibility/#bugfixes) is an important exception to this guideline. 
+En general, récords no son elegibles para la lista si el jugador ha cambiado el gameplay de cualquier forma desde su estado original. Sin embargo, [arreglando bugs](/guidelines/eligibility/#bugfixes) es una excepción importante de esta pauta.
 
-If a list demon uses the in-game two-player mode, *only completions by a single player* are permitted for records on the level.
+Si un nivel de la lista usa el modo de dos-jugadores, *solo récords hechos por un solo jugador* están permitidos para el nivel.
 
-Disallowed changes to the gameplay of a level are often classified as nerfs, which could pertain to an illegal bugfix or a significant alteration of the level’s decoration. The latter case includes [strong LDMs](/guidelines/lowdetailmodes) and significant changes to a level’s color palette.
+Cambios prohibidos del gameplay del nivel se suelen clasificar como nerfs, que pueden pertenecer a una corrección ilegal de un bug o una alteración significativa a la decoración del nivel. Este último caso incluye [LDMs fuertes](/guidelines/lowdetailmodes) y cambios significativos a los colores del nivel.
 
-## Endscreens
+## Pantallas Finales
 
-A completion video that does not show the **in-game endscreen** after completing the level will not be eligible for a record on the list, unless the player provides [raw footage](/guidelines/rawfootage) of the completion that includes this endscreen. However, if the game crashes before the endscreen is displayed, it will serve as an exception to this rule.
+Un vídeo de un récord que no contiene la **pantalla final del juego** después de completar el nivel no será elegible para ser un récord aceptado en la lista, a no ser que el jugador disponga de una [grabación no editada](/guidelines/rawfootage) del récord que incluya esta pantalla final. Sin embargo, si el juego falla antes de que se muestre la pantalla final, servirá como excepción a esta norma.
 
-In addition, a visible endscreen should be easily readable by the viewer. If the record features a [texture pack](/guidelines/lowdetailmodes/#texture-packs) that makes the endscreen unreadable, it will not be eligibile for the list.
+De forma adicional, la pantalla final debe ser fácilmente legible por el espectador. Si el récord contiene un [pack de texturas](/guidelines/lowdetailmodes/#texture-packs) que hace que la pantalla final sea ilegible, no será elegible para la lista.
 
-## Game Version
+## Versión del Juego
 
-Although these changes are typically not significant, an in-game update may alter the physics of various gamemodes, which can change the difficulty of passing certain sections of list demons. Because of this inconsistency, **any record** that was not achieved on the current version of the game or the version in which the level was verified will not be accepted to the list. Note that this guideline permits records achieved on private servers (e.g., the 1.9 GDPS) as long as the list demon was originally verified and published on the server as well.
+Aunque estos cambios no suelen ser muy significativos, una actualización del juego puede alterar la física de varios modos de juego, que puede cambiar la dificultad de varias secciones de un nivel en la lista. A causa de esta inconsistencia, **cualquier récord** que no se logró en la versión actual del juego o la versión en la cual se verificó el nivel no será aceptado en la lista. Que conste que esta pauta permite que récords logrados en servidores privados (p.ej., la 1.9 GDPS) sean aceptados siempre y cuando el nivel el nivel sea verificado y publicado en el servidor también.
 
 </div>

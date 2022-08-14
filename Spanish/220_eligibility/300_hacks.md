@@ -1,25 +1,25 @@
 <div class='panel fade js-scroll-anim' data-anim='fade'>
 
-# Eligibility of Hacks{id=hacks}
+# Elegibilidad de Hacks{id=hacks}
 
-Although the list team allows certain hacks for records on the list, a player *may not submit a record obtained using hacks* designed to __alter or bypass__ the gameplay in any way. This guideline includes but is not limited to Noclip, GDBot/XBot/YBot, Macros, and Speedhacks. Please refer to [this section](/guidelines/miscellaneous/#allowed-hacks) for a list of allowed hacks for records on the Demon List.
+Aunque el equipo de la lista permite ciertos hacks en la lista, un jugador *no debe enviar un récord obtenido usando hacks* para __alterar o desviarse__ del gameplay de ninguna forma. Esta pauta incluye pero no se limita a Noclip, GDBot/XBot/YBot, Macros, y Speedhacks. Por favor consulte a [esta sección](/guidelines/miscellaneous/#allowed-hacks) para ver una lista de hacks permitidos en la Demon List.
 
-It should be noted that, per the [framerate guidelines](/guidelines/eligibility/#fps) players are **no longer** allowed to use the FPS bypass to change the in-game framerate in the middle of an attempt. Players are also **prohibited** from changing the state of other allowed hacks after the start of an attempt if this change is intended to alter the difficulty of the level. 
+Se debe conocer que, según las [pautas de FPS](/guidelines/eligibility/#fps) jugadores **ya no** están permitidos a cambiar su FPS en medio de un intento. Jugadores están **prohibidos** de cambiar el estado de otros hacks permitidos después de comenzar un intento si la intención de este cambio es alterar la dificultad del nivel.
   
-Any records involving a player enabling or disabling allowed hacks to change the difficulty of the level will be rejected!
+¡Cualquier récord que contiene al jugador activando o desactivando hacks para cambiar la dificultad del nivel será rechazado!
 
-## Player Bans
+## Banes de Jugadores
 
-***Any attempt to post an illegitimate (hacked) record while passing it off as not hacked will cause the player to be banned from the stats viewer on this website.*** 
+******Cualquier intento de enviar un récord ilegítimo (hackeado) mientras lo hace pasar por no hackeado hará que el jugador sea baneado de la tabla de clasificación en esta página web.****** 
 
-Each ban *will be indefinite* until the player confesses to the list team and publicly identifies their illegitimate videos as hacked. In addition, a player publicly encouraging the use of any hacking methods *will be treated as if they submitted a record that used them*, so they will be banned accordingly. The length of the ban after confession is primarily dependent on the severity of the infraction, the quantity of hacked records, and any attempts to prolong the investigation. 
+Cada ban *será permanente* hasta que el jugador confiese al equipo de la lista y públicamente identifique sus vídeos ilegítimos como hackeados. Además, un jugador públicamente alentando el uso de cualquier método de hacks *será tratado como si hubiesen enviado un récord que use ese método*, así que serán baneados. La duración del ban después de confesar depende de la severidad de la infracción, la cantidad de récords hackeados, y cualquier intento de prolongar la investigación. 
 
-*A player that continues to submit illegitimate records after confessing to hacking once will be permanently banned with no exception.*
+*Un jugador que continúe enviando récords ilegítimos después de confesar será permanentemente baneado sin excepciones.*
 
-## Alternate and 'Qwer' Accounts
+## Cuentas Alternativas y Cuentas "Qwer"
 
-While not considered a hack, the list team also prohibits alternate accounts for players that have already submitted records under a different name. If a player is caught with more than one account on the list, the new account will be banned permanently, and the original account will be banned indefinitely until the owner publicly confesses.
+Aunque no se considera un hack, el equipo de la lista también prohíbe cuentas alternativas para jugadores que ya han enviado récords bajo otro nombre. Si se pilla un jugador con más de una cuenta en la lista, la cuenta nueva será baneada permanentemente, y la cuenta original será baneada hasta que el dueño confiese públicamente.
 
-In addition, the list team prohibits 'qwer' accounts that post records from multiple players under a single name. If multiple players are caught submitting records for a single account on the list, the group account will be banned permanently and the individual players recording the videos will be banned indefinitely until each one publicly confesses.
+De forma adicional, la lista prohíbe cuentas 'qwer' que publican récords de varios jugadores bajo un solo nombre. Si varios jugadores son pillados enviando récords para una misma cuenta en la lista, la cuenta del grupo será baneada permanentemente y los jugadores individuales que graban los vídeos serán baneados hasta que cada uno confiese públicamente.
 
 </div>

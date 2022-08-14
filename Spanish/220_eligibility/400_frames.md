@@ -2,12 +2,12 @@
 
 # Framerate Guidelines{id=fps}
 
-Geometry Dash typically sets the maximum framerate to the monitor's natural refresh rate. Software that increases the framerate of the game may be used, **but the framerate must remain at or below 360FPS**. Any record with a higher framerate will be considered hacked, **even if the framerate is achieved through the monitor refresh rate.** Any player that lies about their framerate or attempts to fake an FPS counter will be banned from the list. 
+Geometry Dash típicamente usa el FPS máximo natural de los hercios del monitor. Programas que aumentan el FPS del juego se pueden usar, **pero el FPS se debe mantener inferior o igual a 360FPS**. Cualquier récord con un FPS superior será considerado hackeado, **hasta si el FPS se consigue mediante los hercios naturales del monitor.** Cualquier jugador que mienta sobre su FPS o intente falsificar un contador de FPS será baneado de la lista 
 
-Although players may use various framerates throughout their raw footage, **players are not permitted to change FPS values midway through a record.** *This is a recent change, so please be mindful of this before submitting new records!*
+Aunque jugadores pueden usar varios FPS durante su grabación no editada, **jugadores no están permitidos a cambiar de FPS durante un récord.** *¡Este es un cambio reciente, así que por favor téngase cuidado con esto antes de enviar récords nuevos!*
 
 ## FPS Counters
 
-An FPS counter is **required for every record submitted to the list.** An FPS counter is defined as an indicator of the player's framerate that is **present and readable** throughout the entire attempt corresponding to the record. Although we will reject records that do not have an FPS counter, a player **will not be banned** unless they attempt to lie about their framerate. 
+Un contador de FPS es **requerido para todos los récords enviados a la lista.** Un contador de FPS es definido como un indicador del FPS del jugador que es **presente y legible** durante el intento entero correspondiente al récord. Aunque sí rechazaremos récords que no contienen contadores de FPS, un jugador **no será baneado** a no ser que intenten mentir sobre su FPS.
 
 </div>
